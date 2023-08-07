@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="OriginSix" src="https://i.imgur.com/D1dkuI3.png" width="90%">
-</p>
+<img alt="OriginSix" src="https://i.imgur.com/D1dkuI3.png" width="90%">
+
+<br>
 
 ## 💻 Projeto
 
